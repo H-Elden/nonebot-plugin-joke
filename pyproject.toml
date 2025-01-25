@@ -1,0 +1,20 @@
+[project]
+name = "nonebot-plugin-joke"
+version = "0.1.0"
+description = "nonebot2插件：讲中英文笑话"
+authors = [
+    {name = "Elden",email = "h_elden@qq.com"}
+]
+license = "MIT"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "nonebot2 (>=2.3.0,<3.0.0)",
+    "nonebot-adapter-onebot (>=2.4.6,<3.0.0)",
+    "httpx (>=0.28.1,<1.0.0)",
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
