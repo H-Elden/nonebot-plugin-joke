@@ -55,12 +55,13 @@
 
 ## 示例图
 
-<p style="text-align: center;">
-  <img src="readme_images/示例图.jpg" alt="示例图" style="width:70%; height:auto;" />
-</p>
+<div align="center">
+  <img src="readme_images/示例图.jpg" height="600" alt="示例图">
+</div>
 
 ## 🙏鸣谢
 
 > 使用 [夏柔API](https://api.aa1.cn/) 获取中文笑话
+
 > 使用 [JokeAPI](https://sv443.net/jokeapi/v2/) 获取英文笑话
 
